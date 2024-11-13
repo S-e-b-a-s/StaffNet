@@ -365,6 +365,7 @@ roles = {
         },
         "employment_information": {
             "campana_general": "",
+            "cargo": "",
             "fecha_ingreso": "",
             "sede": "",
         },
