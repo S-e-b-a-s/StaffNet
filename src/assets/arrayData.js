@@ -411,6 +411,7 @@ export const arrayData = [
 					{ value: "COMFENALCO TOLIMA", label: "COMFENALCO TOLIMA" },
 					{ value: "COMFENALCO SANTANDER", label: "COMFENALCO SANTANDER" },
 					{ value: "COFREM", label: "COFREM" },
+					{ value: "CAFAM", label: "CAFAM" },
 					{ value: "N/A", label: "N/A" },
 				],
 			},
@@ -480,6 +481,7 @@ export const arrayData = [
 					{ value: "ANALISTA DE INFORMACION", label: "Analista de Informacion" },
 					{ value: "ANALISTA DE INVESTIGACION MOVIL Y EN SITIO", label: "Analista de Investigacion Movil y en Sitio" },
 					{ value: "ANALISTA DE SANEAMIENTO", label: "Analista de Saneamiento" },
+					{ value: "ANALISTA DE SEGURIDAD Y SALUD EN EL TRABAJO Y MEDIO AMBIENTE", label: "Analista de Seguridad y Salud en el Trabajo y Medio Ambiente" },
 					{ value: "ANALISTA DE SOPORTE", label: "Analista de Soporte" },
 					{ value: "ANALISTA GESTION HUMANA", label: "Analista Gestion Humana" },
 					{ value: "ANALISTA JURIDICO", label: "Analista Juridico" },
@@ -745,6 +747,10 @@ export const arrayData = [
 						label: "Interactuar Medellin",
 					},
 					{
+						value: "INTERDINCO",
+						label: "Interdinco",
+					},
+					{
 						value: "LATO SENSU",
 						label: "Lato Sensu",
 					},
@@ -801,6 +807,10 @@ export const arrayData = [
 						label: "Sura",
 					},
 					{
+						value: "UNICAFAM",
+						label: "Unicafam",
+					},
+					{
 						value: "YANBAL BOGOTA",
 						label: "Yanbal Bogota",
 					},
@@ -851,6 +861,10 @@ export const arrayData = [
 					{
 						value: "BANCO FALABELLA MEDELLIN",
 						label: "Banco Falabella Medellin",
+					},
+					{
+						value: "BANCO PICHINCHA",
+						label: "Banco Pichincha",
 					},
 					{
 						value: "BANCO SANTANDER",
@@ -977,6 +991,10 @@ export const arrayData = [
 						label: "Interactuar Medellin",
 					},
 					{
+						value: "INTERDINCO",
+						label: "Interdinco",
+					},
+					{
 						value: "LATO SENSU",
 						label: "Lato Sensu",
 					},
@@ -1013,10 +1031,6 @@ export const arrayData = [
 						label: "Pay-U",
 					},
 					{
-						value: "BANCO PICHINCHA",
-						label: "Banco Pichincha",
-					},
-					{
 						value: "PRESIDENCIAL",
 						label: "Presidencial",
 					},
@@ -1035,6 +1049,10 @@ export const arrayData = [
 					{
 						value: "SURA",
 						label: "Sura",
+					},
+					{
+						value: "UNICAFAM",
+						label: "Unicafam",
 					},
 					{
 						value: "YANBAL BOGOTA",
