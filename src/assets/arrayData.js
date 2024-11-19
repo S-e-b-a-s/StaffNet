@@ -404,6 +404,7 @@ export const arrayData = [
 				name: "caja_compensacion",
 				type: "select",
 				options: [
+					{ value: "CCF CAFAM", label: "CCF CAFAM" },
 					{ value: "CCF - COMFACA", label: "CCF - COMFACA" },
 					{ value: "COMPENSAR", label: "COMPENSAR" },
 					{ value: "COMFAMILIAR HUILA", label: "COMFAMILIAR HUILA" },
@@ -466,8 +467,12 @@ export const arrayData = [
 				options: [
 					{ value: "ABOGADO(A) JUNIOR", label: "Abogado(a) Junior" },
 					{ value: "AGENTE BILINGUE TECNICO", label: "Agente Bilingüe Tecnico" },
+					{ value: "AGENTE GENERAL EN SITIO", label: "Agente General en Sitio" },
 					{ value: "AGENTE PROFESIONAL ABOGADO(A)", label: "Agente Profesional Abogado(a)" },
+					{ value: "AGENTE PROFESIONAL BACK OFFICE", label: "Agente Profesional Back Office" },
+					{ value: "AGENTE PROFESIONAL CON DOMINIO EN LENGUA DE SEÑAS COLOMBIANA", label: "Agente Profesional con Dominio en Lengua de Señas Colombiana" },
 					{ value: "AGENTE PROFESIONAL MINERO DE DATOS", label: "Agente Profesional Minero De Datos" },
+					{ value: "AGENTE PROFESIONAL EN SITIO", label: "Agente Profesional en sitio" },
 					{ value: "AGENTE PROFESIONAL PSICOLOGO(A)", label: "Agente Profesional Psicologo(a)" },
 					{ value: "AGENTE TECNICO", label: "Agente Tecnico" },
 					{ value: "AGENTE TECNICO MANTENIMIENTO", label: "Agente Tecnico Mantenimiento" },
@@ -511,9 +516,11 @@ export const arrayData = [
 					{ value: "COORDINADOR(A) DE CALIDAD", label: "Coordinador(a) de Calidad" },
 					{ value: "COORDINADOR(A) DE CAPACITACION", label: "Coordinador(a) de Capacitacion" },
 					{ value: "COORDINADOR(A) DE COMUNICACIONES", label: "Coordinador(a) de Comunicaciones" },
-					{ value: "COORDINADOR(A) DE FORMACION Y DESARROLLO DEL TALENTO", label: "Coordinador(a) de Formación y Desarrollo del Talento" },
+					{ value: "COORDINADOR(A) DE FORMACION Y CALIDAD", label: "Coordinador(a) de Formacion y Calidad" },
+					{ value: "COORDINADOR(A) DE FORMACION Y DESARROLLO DEL TALENTO", label: "Coordinador(a) de Formacion y Desarrollo del Talento" },
 					{ value: "COORDINADOR(A) DE INVESTIGACIONES", label: "Coordinador(a) de Investigaciones" },
 					{ value: "COORDINADOR(A) DE INFORMACION", label: "Coordinador(a) de Información" },
+					{ value: "COORDINADOR(A) DE OPERACIONES", label: "Coordinador(a) de Operaciones" },
 					{ value: "COORDINADOR(A) DE PLANEACION Y CALIDAD", label: "Coordinador(a) de Planeacion y Calidad" },
 					{ value: "COORDINADOR(A) DE PROYECTO", label: "Coordinador(a) de Proyecto" },
 					{ value: "COORDINADOR(A) LINEA DE SOPORTE SIIF NACION", label: "Coordinador(a) Linea de Soporte SIIF Nacion" },
@@ -559,6 +566,8 @@ export const arrayData = [
 					{ value: "JEFE OPERACIONES OPERATIVO", label: "Jefe Operaciones Operativo" },
 					{ value: "JEFE OPERACIONES PROCESOS", label: "Jefe Operaciones Procesos" },
 					{ value: "LIDER DE CALIDAD", label: "Lider De Calidad" },
+					{ value: "LIDER DE CALIDAD Y FORMACION", label: "Lider de Calidad y Formacion" },
+					{ value: "MINERO DE DATOS", label: "Minero de Datos" },
 					{ value: "OPERADOR(A) LOGISTICO(A)", label: "Operador(a) Logistico(a)" },
 					{ value: "PREVENCIONISTA", label: "Prevencionista" },
 					{ value: "PRESIDENTE", label: "Presidente" },
@@ -665,7 +674,10 @@ export const arrayData = [
 						value: "CREDINTEGRAL",
 						label: "Credintegral",
 					},
-
+					{
+						value: "DIAN",
+						label: "DIAN",
+					},
 					{
 						value: "DINERUM",
 						label: "Dinerum",
@@ -909,6 +921,10 @@ export const arrayData = [
 					{
 						value: "CREDINTEGRAL",
 						label: "Credintegral",
+					},
+					{
+						value: "DIAN",
+						label: "DIAN",
 					},
 					{
 						value: "DINERUM",
