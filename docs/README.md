@@ -7,7 +7,7 @@
 1. Access the dev server `172.16.0.155` via SSH
 2. Go to the project directory `cd /var/www/StaffNet/`
 3. Run the following command to start the frontend server: `npm run dev`
-4. The frontend server will start running on port 8000 that is to say, you can access the frontend by going to `http://172.16.0.115:3000`
+4. The frontend server will start running on port 3000 that is to say, you can access the frontend by going to `http://172.16.0.115:3000`
 5. The frontend server will automatically update when changes are made to the code
 6. To stop the frontend server, press `Ctrl + C`
 
