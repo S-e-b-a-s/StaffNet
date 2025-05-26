@@ -33,7 +33,7 @@
 ```
 > **Note:** The `value` property is the value that will be sent to the backend in uppercase and the `label` property is the value that will be displayed to the user
 
-> **Note:** If the input is about a campaing, you should add the new option to the `campana_general` array and to the `gerencia` array as well
+> **Note:** If the input is about a campaign, you should add the new option to the `campana_general` array and to the `gerencia` array as well
 
 ## How to deploy a new version of the project to the production server
 
