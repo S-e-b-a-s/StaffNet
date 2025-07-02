@@ -1163,3 +1163,4 @@ def get_personal_information(cedula):
         response = {"status": "success", "data": data}
         return response
     return jsonify(response), 500
+
