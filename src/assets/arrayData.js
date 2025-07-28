@@ -1118,6 +1118,10 @@ export const arrayData = [
 						label: "MetLife",
 					},
 					{
+						value: "MINISTERIO DE EDUCACION",
+						label: "Ministerio de Educacion",
+					},
+					{
 						value: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO",
 						label: "Ministerio de Hacienda y Credito Publico",
 					},
@@ -1392,6 +1396,10 @@ export const arrayData = [
 					{
 						value: "METLIFE",
 						label: "MetLife",
+					},
+					{
+						value: "MINISTERIO DE EDUCACION",
+						label: "Ministerio de Educacion",
 					},
 					{
 						value: "MINISTERIO DE HACIENDA Y CREDITO PUBLICO",
